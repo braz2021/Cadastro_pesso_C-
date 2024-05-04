@@ -1,0 +1,14 @@
+C:\Users\Braz\OneDrive\Desktop\Codificacao\bin\Debug\net8.0\Codificacao.exe
+C:\Users\Braz\OneDrive\Desktop\Codificacao\bin\Debug\net8.0\Codificacao.deps.json
+C:\Users\Braz\OneDrive\Desktop\Codificacao\bin\Debug\net8.0\Codificacao.runtimeconfig.json
+C:\Users\Braz\OneDrive\Desktop\Codificacao\bin\Debug\net8.0\Codificacao.dll
+C:\Users\Braz\OneDrive\Desktop\Codificacao\bin\Debug\net8.0\Codificacao.pdb
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.AssemblyInfoInputs.cache
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.AssemblyInfo.cs
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.csproj.CoreCompileInputs.cache
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.dll
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\refint\Codificacao.dll
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.pdb
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\Codificacao.genruntimeconfig.cache
+C:\Users\Braz\OneDrive\Desktop\Codificacao\obj\Debug\net8.0\ref\Codificacao.dll
